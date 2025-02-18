@@ -6,11 +6,8 @@ Instead, I derive 𝙐, Σ, 𝙑ᴴ through eigendecomposition, demonstrating th
 🔹 Features
 
 ✔ Computes SVD for a 3×3 matrix from scratch.
-
 ✔ Uses eigenvalues and eigenvectors instead of direct SVD calls.
-
 ✔ Provides detailed comments & docstrings for clarity.
-
 ✔ Helps understand the inner workings of SVD for machine learning & data science.
 
 🔹 How to Run
